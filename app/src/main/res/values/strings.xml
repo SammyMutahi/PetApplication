@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Pet</string>
+    <string name="add_pet">Add New Pet</string>
+    <string name="delete">Delete All Pets</string>
+    <string name="hint_name">Enter pets name</string>
+    <string name="hint_weight">Enter pets weight</string>
+    <string name="hint_breed">Enter pets breed</string>
+    <string name="hint_gender">Enter pets gender</string>
+    <string name="save_pets">save</string>
+</resources>
